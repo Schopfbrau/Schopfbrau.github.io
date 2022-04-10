@@ -1,1 +1,6 @@
-## Coming soon...
+---
+title: Schopf-Bräu
+---
+
+# Coming soon...
+
